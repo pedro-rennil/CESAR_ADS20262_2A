@@ -1,0 +1,4 @@
+A alternativa correta é a b. 
+O conceito de case sensitive significa que cada caractere é avaliado rigorosamente de acordo com seu código binário correspondente na tabela ASCII. 
+Como o caractere 'p' minúsculo possui valor ASCII decimal 112, o 'P' maiúsculo possui o valor 80 e 'E' possui 69, a linguagem interpreta os identificadores como cadeias de bytes distintas. 
+Assim, peso, Peso e PESO representam três posições de memória totalmente independentes e distintas.

@@ -9,6 +9,6 @@ int main() {
     float area = A * PI * (R*R);
     printf("A area da esfera e: %.3f\n",area);
     V = V * PI * pow (R,3);
-    printf("O volume da esfera e:%.3f",V);
+    printf("O volume da esfera e: %.3f",V);
     return 0;
 }
